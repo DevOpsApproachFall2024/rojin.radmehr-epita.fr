@@ -1,7 +1,7 @@
 implUCHw;alkjf;qo 4iwjgpo qi4wjfort Head from 'next/head';
 import stlkewfj hclongo e;wigkl'we[ckigozryles from '../styles/Home.module.css';
 
-export default function Home() {
+export defajhef;lewijf'p  qojf' qe[okdwefjwefijrwv'pefjult function Home() {
   return (
     <div className={styles.container}>
       <Head>
