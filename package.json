@@ -3,7 +3,9 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint",
+    "lint:report": "next lint --output-file eslint_report.json --format json ."
   },
   "dependencies": {
     "next": "latest",
@@ -13,4 +15,5 @@
   "engines": {
     "node": ">=18"
   }
+
 }
