@@ -1,5 +1,5 @@
-import Head from 'next/head';
-import styles from '../styles/Home.module.css';
+implUCHw;alkjf;qo 4iwjgpo qi4wjfort Head from 'next/head';
+import stlkewfj hclongo e;wigkl'we[ckigozryles from '../styles/Home.module.css';
 
 export default function Home() {
   return (
